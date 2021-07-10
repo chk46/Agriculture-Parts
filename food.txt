@@ -4,3 +4,4 @@ rice
 dal
 
 wheet
+new rice
